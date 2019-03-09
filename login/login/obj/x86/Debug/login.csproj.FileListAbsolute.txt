@@ -6,5 +6,12 @@ c:\users\student\documents\visual studio 2010\Projects\login\login\bin\Debug\log
 c:\users\student\documents\visual studio 2010\Projects\login\login\obj\x86\Debug\login.exe
 c:\users\student\documents\visual studio 2010\Projects\login\login\obj\x86\Debug\login.pdb
 c:\users\student\documents\visual studio 2010\Projects\login\login\obj\x86\Debug\login.welcome.resources
-C:\xampp\htdocs\login\login\obj\x86\Debug\login.exe
-C:\xampp\htdocs\login\login\obj\x86\Debug\login.pdb
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.exe
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.pdb
+C:\xampp\htdocs\login\login\login\bin\Debug\login.exe
+C:\xampp\htdocs\login\login\login\bin\Debug\login.pdb
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.Form1.resources
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.Properties.Resources.resources
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.welcome.resources
+C:\xampp\htdocs\login\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
